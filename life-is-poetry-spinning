@@ -17,8 +17,8 @@ body {
 .main-logo-grid {
 
     
-    width: 230px;
-    height: 230px;
+    width: 175px;
+    height: 175px;
     overflow: hidden;
     display: grid;
     grid-template-columns: 1fr;
